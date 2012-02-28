@@ -13,7 +13,7 @@ public class Startup {
     public static void main(String[] args) {
 
         CashRegister cashRegister = new CashRegister();
-
+        System.out.println("This is for experiment branch");
         //create some Customers and Products
         cashRegister.createProducts();
         cashRegister.createCustomer();
