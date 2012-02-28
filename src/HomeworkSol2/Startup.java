@@ -1,6 +1,6 @@
 /*
  * To change this template, choose Tools | Templates
- * test git and open the template in the editor.
+ * and open the template in the editor.
  */
 package HomeworkSol2;
 
@@ -31,6 +31,5 @@ public class Startup {
         //generate receipt
         cashRegister.finalizeSale();
         
-        System.out.println("This is test for Git");
     }
 }
